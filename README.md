@@ -18,12 +18,12 @@ Bootstrap Checkout Form: [https://getbootstrap.com/docs/4.1/examples/checkout/](
 
 ### Örnek Kart Bilgileri
 
-Visa: 4111111111111111
-Discover: 6011111111111117
-MasterCard: 5111111111111118
-Maestro: 5018111111111112
-JCB: 3511111111111119
-American Express: 371111111111114
+Visa: 4111111111111111<br>
+Discover: 6011111111111117<br>
+MasterCard: 5111111111111118<br>
+Maestro: 5018111111111112<br>
+JCB: 3511111111111119<br>
+American Express: 371111111111114<br>
 Diners Club: 38111111111119
 
 ## Kurulum
