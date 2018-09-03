@@ -4,7 +4,7 @@ Demo: [http://www.ufukozdemir.website/github/jquery-card-bootstrap4-checkout-for
 
 Orjinal: [https://jessepollak.github.io/card/](https://jessepollak.github.io/card/)
 
-### Özellikler
+## Özellikler
  - Kart tipi algılama (Visa – Mastercard vs)
  - Alan doğrulaması (Boşluk – Özel Karakter)
  - Giriş maskelemesi
