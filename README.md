@@ -1,16 +1,30 @@
 # JQuery Card - Bootstrap 4 Checkout Form Validation
 
-Demo: [http://www.ufukozdemir.website/github/jquery-card-bootstrap4-checkout-form/](http://www.ufukozdemir.website/github/jquery-card-bootstrap4-checkout-form/)
 
-Orjinal JQuery Card : [https://jessepollak.github.io/card/](https://jessepollak.github.io/card/)
+Demo: [http://www.ufukozdemir.website/github/jquery-card-bootstrap4-checkout-form/](http://www.ufukozdemir.website/github/jquery-card-bootstrap4-checkout-form/)  
+  
+Orjinal JQuery Card : [https://jessepollak.github.io/card/](https://jessepollak.github.io/card/)  
+  
+Bootstrap Checkout Form: [https://getbootstrap.com/docs/4.1/examples/checkout/](https://getbootstrap.com/docs/4.1/examples/checkout/)  
 
-Bootstrap Checkout Form: [https://getbootstrap.com/docs/4.1/examples/checkout/](https://getbootstrap.com/docs/4.1/examples/checkout/)
-
-## Özellikler
+---
+### Özellikler
  - Kart tipi algılama (Visa – Mastercard vs)
  - Alan doğrulaması (Boşluk – Özel Karakter)
  - Giriş maskelemesi
  - Numara, isim, tarih ve CVC’ye özel yer alan alanlar
+
+***
+
+### Örnek Kart Bilgileri
+
+Visa: 4111111111111111
+Discover: 6011111111111117
+MasterCard: 5111111111111118
+Maestro: 5018111111111112
+JCB: 3511111111111119
+American Express: 371111111111114
+Diners Club: 38111111111119
 
 ## Kurulum
 #### Adım 1 (***Gerekli dosyaların sayfa içerisine entegre edilmesi***)
@@ -66,7 +80,7 @@ Bootstrap Checkout Form: [https://getbootstrap.com/docs/4.1/examples/checkout/](
 ```
 
 ---
-#### Adım 3 (***card.js ve bootstrap validation  bilgilerini sayfamıza tanımlayalım***)
+#### Adım 3 (**card.js ve bootstrap validation  bilgilerini sayfamıza tanımlayalım**)
 > Lütfen Class bilgilerine dikkat ediniz! Kart formunun çalışmasını istediğiniz Class kendiniz belirleyebilirsiniz. Ben burada ana formuma tanımladım.
 ```javascript
 // Card Form
