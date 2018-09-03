@@ -2,8 +2,7 @@
 
 Demo: [http://www.ufukozdemir.website/github/jquery-card-bootstrap4-checkout-form/](http://www.ufukozdemir.website/github/jquery-card-bootstrap4-checkout-form/)
 
-Orjinal
-JQuery Card : [https://jessepollak.github.io/card/](https://jessepollak.github.io/card/)
+Orjinal JQuery Card : [https://jessepollak.github.io/card/](https://jessepollak.github.io/card/)
 
 Bootstrap Checkout Form: [https://getbootstrap.com/docs/4.1/examples/checkout/](https://getbootstrap.com/docs/4.1/examples/checkout/)
 
