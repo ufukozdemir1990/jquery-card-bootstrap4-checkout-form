@@ -16,7 +16,7 @@ Bootstrap Checkout Form: [https://getbootstrap.com/docs/4.1/examples/checkout/](
 
 ***
 
-### Örnek Kart Bilgileri
+### Örnek Kart Numarası
 
 **Visa**: 4111111111111111<br>
 **Discover**: 6011111111111117<br>
