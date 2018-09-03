@@ -81,7 +81,7 @@ Bootstrap Checkout Form: [https://getbootstrap.com/docs/4.1/examples/checkout/](
 
 ---
 #### Adım 3 (**card.js ve bootstrap validation  bilgilerini sayfamıza tanımlayalım**)
-> Lütfen Class bilgilerine dikkat ediniz! Kart formunun çalışmasını istediğiniz Class kendiniz belirleyebilirsiniz. Ben burada ana formuma tanımladım.
+> **Lütfen Class bilgilerine dikkat ediniz! Kart formunun çalışmasını istediğiniz Class kendiniz belirleyebilirsiniz. Ben burada ana formuma tanımladım.**
 ```javascript
 // Card Form
 $('.needs-validation').card({
